@@ -18,3 +18,11 @@ body {
   color: white;
   background-color: blue;
 }
+
+.w3-link {
+    color: darkred;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
