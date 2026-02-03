@@ -1,6 +1,9 @@
 body {
   background-color: powderblue;
 }
-p {
-border 3px: green;
+#paragraph2 {
+  border 3px: green;
+}
+.blue {
+  background-color: blue;
 }
