@@ -5,8 +5,10 @@ body {
   border-style: solid;
   border-width: 5px;
   border-color: green;
+  background-color: white;
 }
+
 .blue {
-  color white;
+  color: white;
   background-color: blue;
 }
