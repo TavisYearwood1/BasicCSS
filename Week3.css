@@ -26,3 +26,19 @@ body {
 ol {
     list-style-type: decimal-leading-zero;
 }
+
+th {
+    background-color: grey;
+}
+
+td {
+    background-color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
