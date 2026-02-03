@@ -35,7 +35,7 @@
 			<section>
 				<h3>Common HTML Tags</h3>
 				
-				<p><a href="http://www.w3schools.com" target="_blank">W3schools.com</a> has a great resource for HTML, CSS, and JavaScript!</p>
+				<p><a href="http://www.w3schools.com" target="_blank" class="w3-link"> W3schools.com</a> has a great resource for HTML, CSS, and JavaScript!</p>
 				
 				<table>
 					<tr>
